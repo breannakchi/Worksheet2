@@ -1,0 +1,6 @@
+Below are the line and word counts
+First number: 236 is line count
+236
+Second Number: 824 is the word count
+824
+
